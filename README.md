@@ -20,6 +20,9 @@ Shoutout to [Texas Commission on the Arts Videotape Identification and Assessmen
 
 ![pinouts chart](https://raw.githubusercontent.com/ablwr/media-id-posters/master/cables_table_pinouts_web.jpg)
 
+See also: [this image](https://twitter.com/archillect/status/1006156613982580737)  
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
