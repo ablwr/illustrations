@@ -5,13 +5,13 @@ Free vector-based images of legacy media formats.
 See more at [https://archivesoftomorrow.com](https://archivesoftomorrow.com)
 
 ## Audio
-- Coming soon!
+- 131 illustrations of 36 audio formats
 
 ## Cables
 - Four posters featuring magnetic media formats, analog and video cables, and cable pinouts
 
 ## Film
-- Coming soon!
+- 129 illustrations of 36 film formats
 
 ## Video
 - 163 illustrations of 36 video formats
