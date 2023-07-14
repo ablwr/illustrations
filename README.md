@@ -2,7 +2,7 @@
 
 Free vector-based images of legacy media formats.
 
-See more at [https://archivesoftomorrow.com](https://archivesoftomorrow.com)
+See more at [https://mediaguides.archivesoftomorrow.com](https://mediaguides.archivesoftomorrow.com)
 
 ## Audio
 - 131 illustrations of 36 audio formats
