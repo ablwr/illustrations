@@ -4,16 +4,16 @@ Free vector-based images of legacy media formats.
 
 See more at [https://mediaguides.archivesoftomorrow.com](https://mediaguides.archivesoftomorrow.com)
 
-## Audio
+## [Audio](https://github.com/ablwr/illustrations/tree/main/audio)
 - 131 illustrations of 36 audio formats
 
-## Cables
+## [Cables](https://github.com/ablwr/illustrations/tree/main/cables)
 - Four posters featuring magnetic media formats, analog and video cables, and cable pinouts
 
-## Film
+## [Film](https://github.com/ablwr/illustrations/tree/main/film)
 - 129 illustrations of 36 film formats
 
-## Video
+## [Video](https://github.com/ablwr/illustrations/tree/main/video)
 - 163 illustrations of 36 video formats
 
 By [Ashley Blewer](https://ashleyblewer.com).  
